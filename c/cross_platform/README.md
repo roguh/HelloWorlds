@@ -1,8 +1,8 @@
 ```
-$ cc main.c -o main
-$ ./main
+$ cc hello.c -o hello
+$ ./hello
 Hello, world!
-$ ./main and goodbye
+$ ./hello and goodbye
 Hello, world!
 and
 goodbye
